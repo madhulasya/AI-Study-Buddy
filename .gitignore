@@ -1,0 +1,18 @@
+# React node dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Java build target
+backend/target/
+backend/.mvn/
+backend/.settings/
+backend/bin/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
